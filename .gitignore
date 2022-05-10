@@ -25,6 +25,7 @@ dist-ssr
 
 # other files.
 commands.txt
+*.sqlite3
 .myenv
 .env
 __pychache__
